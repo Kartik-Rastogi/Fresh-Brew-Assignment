@@ -1,3 +1,55 @@
+
+# Assignment - Fresh Brew
+
+Repository for Fresh brew Assignment
+
+## URL
+
+<https://www.figma.com/file/oc0hI7cJxW1t8M10FYLDDc/Assignment-3?type=design&mode=design&t=nqP5>
+
+## Description
+
+- This React application is built using [create-react-app](https://create-react-app.dev/).
+- It uses CSS
+- The application is created in JavaScript.
+
+## Pre-requisites
+
+- [NodeJS](https://nodejs.org/en/) - v16 or greater
+- [ReactJS](https://github.com/facebook/create-react-app) - v16 or greater
+
+## Folder Structure
+
+```
+ .
+ ├── package.json
+ ├── public
+ │   ├── assets
+ │   │   └── img, img1 --------- All Project Images
+ │   ├── favicon.ico
+ │   ├── index.html
+ │   ├── manifest.json
+ │   └── robots.txt
+ ├── README.md
+ ├── src
+ │   ├── App.js
+ |   ├── App.css 
+ |   ├── Index.css 
+ |   ├── Index.js
+ │   ├── screens
+ │   │   ├── Home ------ Home Page
+ │   │   └── Dashboard --- Dashboard Page
+ └──.gitignore
+ └── package.json
+```
+
+## Instruction
+
+- Unzip the project file and maintain the folder structure above.
+- After unzip install npm packages using command .i.e. npm install.
+- After unzip use the command npm start it run the application.
+- Starting page will be "Home" Page - <http://localhost:3000>, if you want to go to "Dashboard" Page type - <http://localhost:3000/dashboard>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
